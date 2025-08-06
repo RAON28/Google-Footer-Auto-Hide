@@ -6,6 +6,7 @@
 // @author       RAON28
 // @match        https://www.google.com/*
 // @match        https://www.google.co.kr/*
+// @icon         https://www.google.com/favicon.ico
 // @grant        none
 // ==/UserScript==
 
