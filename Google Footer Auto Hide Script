@@ -2,7 +2,7 @@
 // @name         Google Footer Auto Hide
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  자동으로 구글 푸터를 숨기고 마우스를 올리면 다시 보이게 함 (스크롤바 없음)
+// @description  Automatically hide the Google footer and show it again on mouseover
 // @author       RAON28
 // @match        https://www.google.com/*
 // @match        https://www.google.co.kr/*
